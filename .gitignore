@@ -1,0 +1,25 @@
+# Secure Credentials
+.env
+
+# Text & Word Processing Documents
+*.doc
+*.docx
+*.msword
+
+# Python Environment Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments & IDE Configs
+.venv/
+venv/
+agent_ba_env/
+.vscode/
+
+# MLOps & Local Storage Artifacts
+mlruns/
+mlflow/
+outputs/

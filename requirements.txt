@@ -1,0 +1,9 @@
+crewai
+langchain-groq
+python-dotenv
+streamlit
+pandas
+boto3
+mlflow
+litellm
+langchain-google-genai
